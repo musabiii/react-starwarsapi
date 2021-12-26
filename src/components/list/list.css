@@ -1,0 +1,8 @@
+.list {
+  background-color: rgb(0, 0, 0);
+  flex-basis: 33%;
+  opacity: .7;
+  box-shadow: 1px 5px 5px 1px white;
+
+
+}

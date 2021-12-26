@@ -1,0 +1,7 @@
+.topics {
+  background-color: rgb(0, 0, 0);
+  flex-basis: 33%;
+  opacity: 0.7;
+  color: white;
+  /* font-size: 20px; */
+}

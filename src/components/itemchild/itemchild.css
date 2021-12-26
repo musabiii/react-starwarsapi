@@ -1,0 +1,16 @@
+.itemchild__prop {
+font-weight: 600;
+}
+
+.itemchild__val {
+    font-weight: 400;
+}
+
+.itemchild {
+    /* border: 1px solid white; */
+    margin: 10px 20px;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: space-between;
+}
