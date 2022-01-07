@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-starwarsapi/static/css/main.bbdc0ccd.css",
+    "main.js": "/react-starwarsapi/static/js/main.ddfdd420.js",
+    "static/js/787.0987a635.chunk.js": "/react-starwarsapi/static/js/787.0987a635.chunk.js",
+    "static/media/bg3.jpg": "/react-starwarsapi/static/media/bg3.3d37c120f59f6bf42fe3.jpg",
+    "index.html": "/react-starwarsapi/index.html",
+    "main.bbdc0ccd.css.map": "/react-starwarsapi/static/css/main.bbdc0ccd.css.map",
+    "main.ddfdd420.js.map": "/react-starwarsapi/static/js/main.ddfdd420.js.map",
+    "787.0987a635.chunk.js.map": "/react-starwarsapi/static/js/787.0987a635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdc0ccd.css",
+    "static/js/main.ddfdd420.js"
+  ]
+}
